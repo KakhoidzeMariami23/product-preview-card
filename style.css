@@ -108,11 +108,16 @@ line-height: 17px;
 color: #FFFFFF;
 } 
 
+ @media screen and (min-width:1440px){
+.parfum-desktop{
+Width:300.69px; 
+}
 
 /* attributes for desktop */
  @media screen and (min-width:1440px) {
 .body{
     width: 1440px;
+    Height:50%;
 }
 .container{
 height: 450px;
